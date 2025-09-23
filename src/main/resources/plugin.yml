@@ -1,0 +1,8 @@
+name: NoPalette
+version: '1.0'
+main: org.anarchadia.noPalette.loader
+api-version: '1.21'
+prefix: NoPalette
+authors: [ ZimZym ]
+description: A plugin to prevent the Palette New Chunk Detection Exploit on 1.21.5+
+website: https://anarchadia.org

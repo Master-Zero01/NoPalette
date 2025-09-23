@@ -1,0 +1,3 @@
+patches:
+  palette-exploit:
+    debug: false
