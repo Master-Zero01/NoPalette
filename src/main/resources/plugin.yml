@@ -1,5 +1,5 @@
 name: NoPalette
-version: '2.0'
+version: '${project.version}'
 main: org.anarchadia.noPalette.loader
 api-version: '1.21'
 prefix: NoPalette
